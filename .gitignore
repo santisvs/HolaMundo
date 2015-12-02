@@ -1,0 +1,5 @@
+#Fichero y carpetas ignoradas
+/bin/
+/.classpath
+/.project
+/.settings/
