@@ -122,6 +122,10 @@ public class Alumno {
 	public boolean isMayorEdad(){
 		boolean resul = false;
 		
+		if (this.edad >= 18) {
+			resul = true;
+		}
+		
 		return resul;
 	}
 	
